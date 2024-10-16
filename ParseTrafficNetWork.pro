@@ -18,6 +18,7 @@ SOURCES += \
     Debug/data.cpp \
     Debug/datetime.cpp \
     Debug/logger.cpp \
+    NetWork/tcpthread.cpp \
     Workers/abstractrequest.cpp \
     Workers/dispatcher.cpp \
     Workers/request.cpp \
@@ -39,6 +40,7 @@ HEADERS += \
     Debug/data.h \
     Debug/datetime.h \
     Debug/logger.h \
+    NetWork/tcpthread.h \
     Workers/abstractrequest.h \
     Workers/dispatcher.h \
     Workers/request.h \
